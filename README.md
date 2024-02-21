@@ -26,3 +26,8 @@ Observações:
 
 Este site é apenas uma página inicial de demonstração e não oferece funcionalidades de compra reais.
 O conteúdo e design podem ser adaptados de acordo com as necessidades específicas do projeto.
+
+![image](https://github.com/Ceciliadsb/Positive-rx-s-/assets/91300922/888bb4a3-62e0-45b3-bfe2-6c54adf5f9b7)
+
+
+
